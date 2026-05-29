@@ -238,4 +238,3 @@ The notebook implements classification evaluation and visualizes learning curves
 - Validate on larger, multi-institutional and adult-inclusive datasets.
 - Investigate class weighting, focal loss, or balanced sampling for improved class-wise performance.
 - Report additional clinically relevant metrics, calibration, and confidence intervals.
-- Package inference and model-version tracking for reproducible deployment experiments.
